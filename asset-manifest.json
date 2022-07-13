@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/blob-wars/static/css/main.ceb66e2b.css",
-    "main.js": "/blob-wars/static/js/main.fcaafb60.js",
+    "main.js": "/blob-wars/static/js/main.c1538f47.js",
     "index.html": "/blob-wars/index.html",
     "main.ceb66e2b.css.map": "/blob-wars/static/css/main.ceb66e2b.css.map",
-    "main.fcaafb60.js.map": "/blob-wars/static/js/main.fcaafb60.js.map"
+    "main.c1538f47.js.map": "/blob-wars/static/js/main.c1538f47.js.map"
   },
   "entrypoints": [
     "static/css/main.ceb66e2b.css",
-    "static/js/main.fcaafb60.js"
+    "static/js/main.c1538f47.js"
   ]
 }
