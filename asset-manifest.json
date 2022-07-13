@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/blob-wars/static/css/main.ceb66e2b.css",
+    "main.js": "/blob-wars/static/js/main.fcaafb60.js",
+    "index.html": "/blob-wars/index.html",
+    "main.ceb66e2b.css.map": "/blob-wars/static/css/main.ceb66e2b.css.map",
+    "main.fcaafb60.js.map": "/blob-wars/static/js/main.fcaafb60.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ceb66e2b.css",
+    "static/js/main.fcaafb60.js"
+  ]
+}
